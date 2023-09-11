@@ -1,4 +1,4 @@
-# ERC 721 Contract for AI-NFTs
+#AI-NFTs Smart contract
 
 The AI-NFT is a unique implementation of the ERC721 standard, designed to represent compiled bytecode. Each NFT not only signifies ownership of a particular piece of bytecode but also contains metadata that provides deterministic compilation instructions within a Cartesi Machine.
 
@@ -26,7 +26,7 @@ Each AI-NFT contains the following metadata:
 
 ## How to Use
 
-1. **Deployment**: Deploy the AI-NFT contract, providing the desired name and symbol for the NFTs.
+1. **Deployment**: Deploy your own the AI-NFT contract, providing the desired name and symbol for the NFTs.
 
 2. **Minting**: Call the `mintWithMetadata` function to mint a new AI-NFT. Provide the desired `tokenId` and all necessary metadata values.
 
