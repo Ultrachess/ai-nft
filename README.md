@@ -1,4 +1,4 @@
-#AI-NFTs Smart contract
+# AI-NFTs Smart contract
 
 The AI-NFT is a unique implementation of the ERC721 standard, designed to represent compiled bytecode. Each NFT not only signifies ownership of a particular piece of bytecode but also contains metadata that provides deterministic compilation instructions within a Cartesi Machine.
 
