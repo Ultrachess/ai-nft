@@ -1,4 +1,4 @@
-<h1 align="center">AI-NFTs</h1>
+<h1 align="center">Tokenized Bytecode</h1>
 
 ![Banner Image](https://raw.githubusercontent.com/laurentpayot/minidenticons/main/img/minidenticons.svg)
 
